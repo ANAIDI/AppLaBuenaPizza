@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632470764865",
+    "firebase_url": "https://applabuenapizza-3a9ec.firebaseio.com",
+    "project_id": "applabuenapizza-3a9ec",
+    "storage_bucket": "applabuenapizza-3a9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632470764865:android:3ed889b19cd2f2227a75c0",
+        "android_client_info": {
+          "package_name": "com.example.applabuenapizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632470764865-39ti4ablrljncett8qpg3oqvcki4npiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAR1uqqzJHaleWBe9bVrQptnMWsd2G2k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632470764865-39ti4ablrljncett8qpg3oqvcki4npiv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632470764865-clnub430v6l3h95b689bjlt5g3bob96d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applabuenapizza"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
